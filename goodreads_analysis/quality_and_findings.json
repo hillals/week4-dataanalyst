@@ -1,0 +1,20 @@
+{
+  "raw_rows": 52478,
+  "clean_rows": 52384,
+  "exact_duplicates_removed": 50,
+  "repeated_normalized_title_author_removed": 44,
+  "unrated_excluded_from_rating_summary": 71,
+  "star_count_mismatches": 1414,
+  "missing_pages": 2505,
+  "missing_or_unparseable_price": 14340,
+  "top_1pct_books": 524,
+  "top_1pct_ratings_share": 0.39558583794966007,
+  "spearman_popularity_rating": -0.07653306550197544,
+  "spearman_p_value": 8.462132334672023e-69,
+  "spearman_1000plus": 0.06037762959293112,
+  "books_1000plus": 32996,
+  "mean_1000plus": 4.0038086434719355,
+  "mean_10000plus": 4.0229275063451775,
+  "perfect_score_books": 844,
+  "perfect_score_max_numRatings": 36
+}

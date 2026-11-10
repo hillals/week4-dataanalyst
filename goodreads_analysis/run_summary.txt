@@ -1,0 +1,73 @@
+QUALITY {
+  "raw_rows": 52478,
+  "clean_rows": 52384,
+  "exact_duplicates_removed": 50,
+  "repeated_normalized_title_author_removed": 44,
+  "unrated_excluded_from_rating_summary": 71,
+  "star_count_mismatches": 1414,
+  "missing_pages": 2505,
+  "missing_or_unparseable_price": 14340,
+  "top_1pct_books": 524,
+  "top_1pct_ratings_share": 0.39558583794966007,
+  "spearman_popularity_rating": -0.07653306550197544,
+  "spearman_p_value": 8.462132334672023e-69,
+  "spearman_1000plus": 0.06037762959293112,
+  "books_1000plus": 32996,
+  "mean_1000plus": 4.0038086434719355,
+  "mean_10000plus": 4.0229275063451775,
+  "perfect_score_books": 844,
+  "perfect_score_max_numRatings": 36
+}
+RATINGS                value
+count   52313.000000
+mean        4.027076
+median      4.030000
+min         1.000000
+max         5.000000
+std         0.335871
+AUTHORS                        books  total_ratings  mean_rating
+first_credited_author                                   
+J.K. Rowling              25       24440147     4.393200
+Stephen King              94       13013029     4.032234
+Suzanne Collins           12       11842484     4.231667
+Stephenie Meyer           15       10818815     3.814667
+Rick Riordan              41        8444422     4.297561
+J.R.R. Tolkien            27        8087198     4.091111
+Dan Brown                  9        7041298     3.924444
+John Green                10        6800627     4.057000
+Cassandra Clare           49        6740311     4.293469
+George Orwell             13        6231153     4.106154
+William Shakespeare       41        5959465     3.942439
+Jane Austen               14        5788429     4.118571
+GENRES                     books  total_ratings  median_numRatings  mean_rating
+genres_list                                                             
+Fiction             31582      797570092             4513.0     3.968551
+Fantasy             15019      396732319             4515.0     4.015036
+Young Adult         11843      335328079             4603.0     3.987273
+Audiobook            7297      332885398            12624.0     3.992189
+Romance             15463      323930356             4484.0     3.988466
+Adult                8235      290672415             8561.0     3.977666
+Classics             6892      290069427             4850.0     4.014186
+Novels               7791      245991729             4492.0     3.900175
+Contemporary        10504      239212574             5184.5     3.930755
+Adventure            6438      221107901             5667.5     4.042884
+Historical Fiction   7653      183377100             3890.0     3.970844
+Literature           5827      181479985             4271.0     3.929521
+BANDS                    books  mean_rating  median_rating  perfect_scores
+rating_count_band                                                   
+0–99                8028     4.182242           4.19             844
+100–999            11360     3.985975           4.00               0
+1k–9,999           20388     3.991985           4.00               0
+10k–99,999         11059     4.019112           4.04               0
+100k+               1549     4.050168           4.05               0
+GROUPS  books  median_numRatings  mean_rating                    feature  group
+ 28970             1311.0     4.004130              series_listed  False
+ 23414             4038.5     4.055415              series_listed   True
+ 41783             1540.0     4.037649 award_or_nomination_listed  False
+ 10601             9893.0     3.985477 award_or_nomination_listed   True
+PAGES            books  median_numRatings  mean_rating
+page_band                                       
+1–200      11191             1019.0     4.045686
+201–350    20398             2419.5     3.975479
+351–500    12772             4330.0     4.013919
+501–2,000   5354             3461.5     4.141926

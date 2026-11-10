@@ -1,0 +1,5 @@
+books,median_numRatings,mean_rating,feature,group
+28970,1311.0,4.004130487425191,series_listed,False
+23414,4038.5,4.055415278133812,series_listed,True
+41783,1540.0,4.037648878020714,award_or_nomination_listed,False
+10601,9893.0,3.985476841807377,award_or_nomination_listed,True
